@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prasanthfia
+- 👋 Hi, I’m @Prasanth
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on no idea
